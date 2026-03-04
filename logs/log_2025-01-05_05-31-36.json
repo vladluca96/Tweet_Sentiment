@@ -1,0 +1,14 @@
+{
+    "timestamp": "2025-01-05_05-31-36",
+    "text": "oribil prost stricat. Perfect fantastic grozav.\nEste un produs excelent. Îmi place foarte mult! Calitatea ar putea fi mai bună. În general, sunt mulțumit de achiziția mea. Serviciul clienți a fost rapid și eficient, însă livrarea a întârziat puțin.\nAm fost foarte dezamăgit de produs. Nu corespunde așteptărilor mele. Calitatea este slabă și nu funcționează așa cum promite. Livrarea a întârziat mult, iar serviciul clienți nu mi-a oferit niciun ajutor. Nu recomand acest produs.\n",
+    "sentiment": [
+        "Positive",
+        75.0
+    ],
+    "task_type": "Flagged",
+    "extra": [
+        "File",
+        "2025-01-05_05-31-22",
+        null
+    ]
+}
